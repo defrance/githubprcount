@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+	<infos	name="transporteur"
+		logo="https://wiki.patas-monkey.com/images/b/b6/Transporteur-250x250.png"
+		url="https://www.dolistore.com/fr/modules/805-Transporteur---calcul-des-frais-de-transport-et-franco-de-port.html"
+	/>
+	<modulemoredesc lang="FR_fr">
+TransPorteur permet d'ajouter des frais de transports sur une proposition commercial, commande et facture à partir des poids des produits, tout en gérant le franco de port et des tarifs par pays.
+	</modulemoredesc>
+
+	<modulemoredesclong lang="FR_fr">
+
+		<p style="font-size: 14px;">​Le module Transporteur est une extension pour Dolibarr développée par Patas-Monkey, permettant d'ajouter automatiquement des frais de transport aux propositions commerciales, commandes et factures en fonction du poids des produits et du pays du client. Il prend également en charge la gestion du franco de port et des tarifs spécifiques par pays. </p>
+
+		<h4 style="text-transform:uppercase"><b>Principales fonctionnalités :</b></h4>
+
+		<h4>Calcul automatique des frais de transport :</h4>
+		<p style="font-size: 14px;">Les frais sont déterminés selon le poids total des produits et le pays de destination, garantissant une tarification précise et adaptée.​</p>
+
+		<h4>Gestion du franco de port :</h4>
+		<p style="font-size: 14px;">Le module permet de définir un montant à partir duquel les frais de transport sont offerts, incitant ainsi les clients à augmenter la valeur de leurs commandes.​</p>
+
+		<h4>Tarification personnalisable par pays :</h4>
+		<p style="font-size: 14px;">Les tarifs de transport peuvent être ajustés en fonction du pays du client, tenant compte des variations de coûts liés aux zones géographiques.</p>
+
+	</modulemoredesclong>
+
+	<moduleinfo lang="FR_fr" type="service">
+	</moduleinfo>
+	<moduleinfo lang="FR_fr" type="alert">
+	</moduleinfo>
+
+	<modulemoredesc lang="EN_us">
+TransPorteur allows you to add transport costs to a commercial proposal, order and invoice based on product weights, while managing free shipping and rates by country.
+	</modulemoredesc>
+
+	<modulemoredesclong lang="EN_us">
+
+		<p style="font-size: 14px;">​The Carrier module is an extension for Dolibarr developed by Patas-Monkey, allowing you to automatically add shipping costs to sales proposals, orders, and invoices based on product weight and the customer's country. It also supports the management of free shipping and country-specific rates. </p>
+
+		<h4 style="text-transform:uppercase"><b>Main features:</b></h4>
+
+		<h4>Automatic calculation of shipping costs:</h4>
+		<p style="font-size: 14px;">Frequencies are determined based on the total weight of the products and the destination country, ensuring accurate and appropriate pricing.</p>
+
+		<h4>Free shipping management:</h4>
+		<p style="font-size: 14px;">The module allows you to define an amount above which shipping costs are waived, thus encouraging customers to increase the value of their orders.</p>
+
+		<h4>Customizable pricing by country:</h4>
+		<p style="font-size: 14px;">Shipping rates can be adjusted based on the customer's country, taking into account cost variations related to geographical areas.</p>
+
+	</modulemoredesclong>
+
+	<moduleinfo lang="EN_us" type="service">
+	</moduleinfo>
+	<moduleinfo lang="EN_us" type="alert">
+	</moduleinfo>
+
+	<modulemoredesc lang="ES_es">
+TransPorteur permite agregar costos de transporte a una propuesta comercial, pedido y factura en función del peso del producto, mientras gestiona envíos gratuitos y tarifas por país.
+	</modulemoredesc>
+
+	<modulemoredesclong lang="ES_es">
+
+		<p style="font-size: 14px;">​El módulo Transportista es una extensión para Dolibarr desarrollada por Patas-Monkey, que permite agregar automáticamente los costos de envío a propuestas comerciales, pedidos y facturas en función del peso de los productos y el país del cliente. También admite la gestión de envíos gratuitos y tarifas específicas para cada país. </p>
+
+		<h4 style="text-transform:uppercase"><b>Características principales:</b></h4>
+
+		<h4>Cálculo automático de los costes de transporte:</h4>
+		<p style="font-size: 14px;">Las tarifas se determinan en función del peso total de los productos y el país de destino, lo que garantiza un precio preciso y adecuado.</p>
+
+		<h4>Gestión de envíos gratuitos:</h4>
+		<p style="font-size: 14px;">El módulo permite definir un monto a partir del cual se eximen los costos de envío, incentivando así a los clientes a incrementar el valor de sus pedidos.</p>
+
+		<h4>Precios personalizables por país:</h4>
+		<p style="font-size: 14px;">Las tarifas de envío pueden ajustarse según el país del cliente, teniendo en cuenta las variaciones de costos relacionadas con las áreas geográficas.</p>
+
+	</modulemoredesclong>
+
+	<moduleinfo lang="ES_es" type="service">
+	</moduleinfo>
+	<moduleinfo lang="ES_es" type="alert">
+	</moduleinfo>
+
+	<modulemoredesc lang="IT_it">
+		TransPorteur consente di aggiungere costi di trasporto a una proposta commerciale, a un ordine e a una fattura in base al peso del prodotto, gestendo al contempo le spese di spedizione gratuite e le tariffe per Paese.
+	</modulemoredesc>
+
+	<modulemoredesclong lang="IT_it">
+
+		<p style="font-size: 14px;">​Il modulo Carrier è un'estensione per Dolibarr sviluppata da Patas-Monkey, che consente di aggiungere automaticamente le spese di spedizione a proposte commerciali, ordini e fatture in base al peso dei prodotti e al Paese del cliente. Supporta anche la gestione delle spese di spedizione gratuite e delle tariffe specifiche per Paese. </p>
+
+		<h4 style="text-transform:uppercase"><b>Caratteristiche principali:</b></h4>
+
+		<h4>Calcolo automatico dei costi di trasporto:</h4>
+		<p style="font-size: 14px;">Le tariffe vengono determinate in base al peso totale dei prodotti e al paese di destinazione, garantendo prezzi accurati e appropriati.</p>
+
+		<h4>Gestione delle spese di spedizione gratuite:</h4>
+		<p style="font-size: 14px;">Il modulo consente di definire un importo a partire dal quale vengono esentate le spese di spedizione, incentivando così i clienti ad aumentare il valore dei loro ordini.</p>
+
+		<h4>Prezzi personalizzabili per paese:</h4>
+		<p style="font-size: 14px;">Le tariffe di spedizione potrebbero essere modificate in base al Paese del cliente, tenendo conto delle variazioni di costo relative alle aree geografiche.</p>
+
+	</modulemoredesclong>
+
+	<moduleinfo lang="IT_it" type="service">
+	</moduleinfo>
+	<moduleinfo lang="IT_it" type="alert">
+	</moduleinfo>
+
+	<modulemoredesc lang="DE_de">
+		Mit TransPorteur können Sie einem kommerziellen Angebot, einer Bestellung und einer Rechnung Transportkosten basierend auf dem Produktgewicht hinzufügen und gleichzeitig die kostenlosen Versandkosten und Tarife nach Ländern verwalten.
+	</modulemoredesc>
+
+	<modulemoredesclong lang="DE_de">
+
+		<p style="font-size: 14px;">Das Carrier-Modul ist eine von Patas-Monkey entwickelte Erweiterung für Dolibarr, mit der Sie kommerziellen Angeboten, Bestellungen und Rechnungen automatisch Versandkosten basierend auf dem Gewicht der Produkte und dem Land des Kunden hinzufügen können. Es unterstützt auch die Verwaltung von kostenlosem Porto und länderspezifischen Tarifen. </p>
+
+		<h4 style="text-transform:uppercase"><b>Hauptfunktionen:</b></h4>
+
+		<h4>Automatische Berechnung der Transportkosten:</h4>
+		<p style="font-size: 14px;">Die Gebühren werden auf Grundlage des Gesamtgewichts der Produkte und des Ziellandes ermittelt, um eine genaue und angemessene Preisgestaltung zu gewährleisten.</p>
+
+		<h4>Verwaltung des kostenlosen Portos:</h4>
+		<p style="font-size: 14px;">Das Modul ermöglicht es Ihnen, einen Betrag festzulegen, ab dem die Versandkosten entfallen und so die Kunden zu einer höheren Bestellsumme zu animieren.</p>
+
+		<h4>Anpassbare Preise nach Land:</h4>
+		<p style="font-size: 14px;">Die Versandkosten können je nach Land des Kunden angepasst werden, wobei die Kostenunterschiede in den einzelnen geografischen Gebieten berücksichtigt werden.</p>
+
+	</modulemoredesclong>
+
+	<moduleinfo lang="DE_de" type="service">
+	</moduleinfo>
+	<moduleinfo lang="DE_de" type="alert">
+	</moduleinfo>
+
+	<moremodules>
+		<moremodule name="moreactionlist"/>
+		<moremodule name="mybooking"/>
+		<moremodule name="restock"/>
+		<moremodule name="customproduct"/>
+	</moremodules>
+</module>

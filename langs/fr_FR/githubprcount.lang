@@ -1,0 +1,61 @@
+# Dolibarr language file - fr_FR - githubPRCount
+CHARSET=UTF-8
+
+# ADMIN/ABOUT
+BackToModuleList=Retour à la liste des modules
+About=À propos
+Settings=Configuration
+CustomLineSetup=Configuration du module CustomLine
+NewVersionAviable=Une nouvelle version du module est disponible
+NumberVersion=Version
+MonthVersion=Mois de publication
+ChangesVersion=Principales modifications apportées
+Extrafield=Attribut supplémentaire
+Extrafields=Attributs supplémentaires
+PatasToolsNews=Retrouvez ici les informations de patas-monkey.com (nécessite une connexion à internet)
+PatasTools=Outils Patas-M
+SupportModuleInformation=Informations techniques
+SupportModuleInformationDesc=Note : Ces informations sont utiles et pourront vous être demandées si vous rencontrez un bug dans le fonctionnement du module.
+DolibarrVersion=Version de Dolibarr
+ModuleVersion=Version du module
+PHPVersion=Version de PHP
+DatabaseVersion=Version de la base de données
+WebServerVersion=Version du serveur web
+Slogan=Développement, support et formation pour Dolibarr
+LienModules=Nos modules
+LienServices=Nos services
+LienDoc=Nos documentations
+LienDolistore=Retrouvez nos autres modules
+GeneralSetup=Paramètres généraux
+Changelog=ChangeLog du module
+
+githubPRCountArea=Espace githubPRCount
+PatasMonkeyPresent=Ce module est une création des patas-monkey, une documentation de celui-ci est disponible sur notre site
+githubprcountGeneralSetting=Paramètres généraux
+githubprcountSetup=Paramétrage du module githubPRCount
+githubPRCountSettingValue=Définition des valeurs du modules
+MoreModules=Autres Modules
+MoreModulesLink=D'autres modules que nous avons développés sont disponibles sur le Dolistore
+
+# Admin
+GithubToken=Token Githun
+OwnerApplication=Propriétaire / repositorie
+UserLimitSleepTimer=Nb Utilisateur et temporisation
+YearDisplay= Année d'affichage
+UnderliningLimit=Limites de surlignage
+
+InfoGithubToken=Token Github pour avoir l'accès complet aux API
+InfoOwnerApplication=Propriétaire et nom du dépot à analyser
+InfoUserLimitSleepTimer=définir le nombre de contributeur à récupérer et la temporisation en miliseconde entre chaque requête
+InfoYearDisplay=défini l'année pour l'analyse
+InfoUnderliningLimit=définie la couleur de surligagne au dessus d'une valeur par ligne => nombreDePR:couleur
+
+# Index
+PreviousMonth=Dernier mois 
+PreviousQuarter=Dernier trimestre 
+PreviousYear=Dernière année 
+UserList=Liste des contributeurs
+ClosedIssue=Issue fermée
+OpenIssue=Issue ouverte
+ClosedPR=PR fermée
+OpenPR=PR ouverte

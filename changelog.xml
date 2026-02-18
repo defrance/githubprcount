@@ -1,0 +1,6 @@
+<changelog>
+<Version Number="23.0.+1.0.0"  MonthVersion="2026-02">
+	<change type='inf'>Initial version </change>
+</Version>
+<Dolibarr minVersion="21.0.0" maxPhpVersion="8"/>
+</changelog>
