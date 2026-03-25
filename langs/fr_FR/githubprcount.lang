@@ -38,15 +38,15 @@ MoreModules=Autres Modules
 MoreModulesLink=D'autres modules que nous avons développés sont disponibles sur le Dolistore
 
 # Admin
-GithubToken=Token Githun
+GithubToken=Token Github
 OwnerApplication=Propriétaire / repositorie
 UserLimitSleepTimer=Nb Utilisateur et temporisation
 YearDisplay= Année d'affichage
 UnderliningLimit=Limites de surlignage
 
-InfoGithubToken=Token Github pour avoir l'accès complet aux API
+InfoGithubToken=Token Github pour avoir l'accès complet aux API (suivre le lien)
 InfoOwnerApplication=Propriétaire et nom du dépot à analyser
-InfoUserLimitSleepTimer=définir le nombre de contributeur à récupérer et la temporisation en miliseconde entre chaque requête
+InfoUserLimitSleepTimer=définir le nombre de contributeur à récupérer et la temporisation en microseconde entre chaque requête (1 000 000 = 1s)
 InfoYearDisplay=défini l'année pour l'analyse
 InfoUnderliningLimit=définie la couleur de surligagne au dessus d'une valeur par ligne => nombreDePR:couleur
 

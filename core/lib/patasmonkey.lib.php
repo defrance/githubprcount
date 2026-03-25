@@ -1,5 +1,5 @@
 <?php
-/* Copyright (C) 2014-2024	Charlene BENKE	<charlene@patas-monkey.com>
+/* Copyright (C) 2014-2026	Charlene BENKE	<charlene@patas-monkey.com>
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -36,7 +36,7 @@ function getChangeLog($appliname)
 	$ret= '<table class="noborder" cellspacing="5">';
 	$ret.='<tbody><tr class="liste_titre">';
 	$ret.='<td rowspan="3" align="center"><a href="'.$urlmonkey.'">';
-	$ret.='<img src="../img/patas-monkey_logo.png" alt="" /></a>';
+	$ret.='<img src="'.dol_buildpath($appliname.'/img/patas-monkey_logo.png', 1).'" alt="" /></a>';
 	$ret.='<br/><b>'.$langs->trans("Slogan").'</b>';
 	$ret.='</td>';
 

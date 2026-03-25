@@ -96,16 +96,17 @@ print '</tr>'."\n";
 
 print '<tr >';
 print '<td width=20%  align=left>'.$langs->trans("GithubToken").'</td>';
-print '<td align=left>'.$langs->trans("InfoGithubToken").'</td>';
-print '<td  align=right>';
-print '<br><input type="text" name="githubtoken" size="50" value="'.$githubtoken.'">';
+print '<td align=left>'.$langs->trans("InfoGithubToken");
+print '<br><a href="https://github.com/settings/tokens" target="_blank">'.$langs->trans("GithubTokenLink").'</a>';
+print '</td><td align=right>';
+print '<input type="text" name="githubtoken" size="50" value="'.$githubtoken.'">';
 print '</td></tr>'."\n";
 
 print '<tr >';
 print '<td width=20%  align=left>'.$langs->trans("OwnerApplication").'</td>';
 print '<td align=left>'.$langs->trans("InfoOwnerApplication").'</td>';
 print '<td nowrap align=right>';
-print '<br><input type="text" name="owner" size="10" value="'.$owner.'"> &nbsp;/&nbsp;';
+print '<input type="text" name="owner" size="10" value="'.$owner.'"> &nbsp;/&nbsp;';
 print '<input type="text" name="application" size="10" value="'.$application.'">';
 print '</td></tr>'."\n";
 
